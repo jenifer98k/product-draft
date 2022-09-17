@@ -1,0 +1,24 @@
+
+*{
+    background-color:rgb(226, 247, 240) ;
+}
+.card{
+    width: 13rem;
+}
+.card-body,.author,.job,.info{
+
+}
+
+img{
+   width: 100px; 
+   height: 150px;
+}
+.prev-btn,.next-btn{
+    border: none;
+   
+}
+.random-btn{
+    border: none;
+    color: rgb(48, 172, 172);
+    background-color: aquamarine;
+}
